@@ -23,8 +23,6 @@ The dataset includes anonymized and synthetic data simulating:
 - Promotional campaign effectiveness
 - Order history and engagement levels
 
-*Note: This dataset is entirely artificial and does not reflect real customer data.*
-
 ## Outcomes
 
 - Identified three distinct customer engagement clusters
